@@ -1,8 +1,8 @@
-# Jeu
+---
+description: THis was imported from notion on 26 july 2022
+---
 
-(this is a branch from Github)
-
-## Jeu
+# Import Notion
 
 ## Introduction
 
